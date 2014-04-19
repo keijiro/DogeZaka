@@ -2,6 +2,7 @@ Library/
 Temp/
 
 *.csproj
+*.booproj
 *.unityproj
 *.sln
 *.pidb
